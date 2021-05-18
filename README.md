@@ -48,6 +48,8 @@ Looking at the nearly 600 food trucks in our data set:
   * Hypothesis: Food truck review counts are likely to be correlated with areas that have high disposable income – e.g. high median home values, high median household incomes, and low population density.
   * Result: We found virtually zero statistical relationship between individual food truck review counts and median home values, median household incomes, and population density.
 
+![image](https://user-images.githubusercontent.com/69601778/118579116-49464a80-b742-11eb-951b-3899b8b8b0e7.png)
+
 # Additional Analysis: Average Review Counts by Zipcode
 *Research question: Instead of looking at individual review counts, is there a relationship between zipcode-level average review counts and demographic characteristics of the zipcode?*
   * Hypothesis: Average food truck review counts are likely to be correlated with areas that have high disposable income – e.g. high median home values, high median household incomes, and low population density.
