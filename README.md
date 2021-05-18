@@ -2,6 +2,9 @@
 Research question: If you were a food truck operator (or aspiring one), where would the most ideal location be to conduct your business?
 Using search and location data, is it possible to predict high traffic areas that are more likely to draw in especially review-happy customers?
 
+![image](https://user-images.githubusercontent.com/69601778/118575355-22d0e100-b73b-11eb-842a-d03425120c3b.png)
+
+
 # Hypothesis: Higher review counts across food trucks in Los Angeles can be explained at least in part by location-specific factors such as:
   * Food truck density
   * Population density
