@@ -1,6 +1,6 @@
 # Research Motivation and Summary
-Research question: If you were a food truck operator (or aspiring one), where would the most ideal location be to conduct your business?
-Using search and location data, is it possible to predict high traffic areas that are more likely to draw in especially review-happy customers?
+*Research question: If you were a food truck operator (or aspiring one), where would the most ideal location be to conduct your business?
+Using search and location data, is it possible to predict areas that are more likely to draw in customers who will leave Yelp reviews?*
 
 ![image](https://user-images.githubusercontent.com/69601778/118575355-22d0e100-b73b-11eb-842a-d03425120c3b.png)
 
