@@ -17,6 +17,10 @@ Using search and location data, is it possible to predict areas that are more li
   * Zipcode level demographic information is representative of the available food truck locations in a given zipcode.
   * The addresses listed on Yelp are reflective of current business locations.
 
+# Food Truck Density by Zipcode in Los Angeles
+![image](https://user-images.githubusercontent.com/69601778/118578962-fc627400-b741-11eb-8db4-707bbb66652e.png)
+
+
 # Summary Results
 Looking at the nearly 600 food trucks in our data set:
 1) Review counts for food trucks tend to skew very low (generally below 200)
