@@ -40,7 +40,9 @@ Looking at the nearly 600 food trucks in our data set:
   * Hypothesis: Food truck review counts are likely heavily concentrated among the most instagrammable food trucks with the best locations to drive food traffic.
   * Result: Food truck review counts at the are highly concentrated at the high end of the sample; 85% of food trucks in our sample receive 200 reviews or less
  
+ ### Review Count Distribution Across L.A. Food Trucks – Initial Pull from Yelp (n = 559)
 ![image](https://user-images.githubusercontent.com/69601778/118564448-1e99c900-b725-11eb-86d3-f62c1dee7e5b.png)
+### Histogram of Review Counts - Filtered for Food Trucks with Under 200 Reviews (n = 474)
 ![image](https://user-images.githubusercontent.com/69601778/118564473-2bb6b800-b725-11eb-87f7-aad54eb88956.png)
 
 # Linear Regression Analysis
@@ -48,6 +50,7 @@ Looking at the nearly 600 food trucks in our data set:
   * Hypothesis: Food truck review counts are likely to be correlated with areas that have high disposable income – e.g. high median home values, high median household incomes, and low population density.
   * Result: We found virtually zero statistical relationship between individual food truck review counts and median home values, median household incomes, and population density.
 
+## L.A. Food Trucks with Under 200 Reviews - Review Counts vs. Median Household Income
 ![image](https://user-images.githubusercontent.com/69601778/118579116-49464a80-b742-11eb-951b-3899b8b8b0e7.png)
 
 # Additional Analysis: Average Review Counts by Zipcode
